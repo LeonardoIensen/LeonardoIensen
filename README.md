@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👨🏻‍💻 Leonardo Iensen
 
-<!--
-**LeonardoIensen/LeonardoIensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Information Systems Student @ UFSM`**
 
-Here are some ideas to get you started:
+Information Systems student at the Federal University of Santa Maria (UFSM), currently focused on improving programming logic, software development fundamentals, and building practical projects using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in backend development, automation, and technology-focused problem solving.
+
+---
+
+### 🤖 Tech Stack
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
